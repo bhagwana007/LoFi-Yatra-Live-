@@ -6,7 +6,7 @@ import subprocess
 STREAM_KEY = "dtr3-w144-392p-8x4x-75cf"  # 🔁 यहां अपनी YouTube Stream Key डालें
 VIDEO_FILE = "song.mp3"  # 🔁 यहां आपका गाना mp3 फाइल का नाम
 THUMBNAIL = "thumbnail.jpg"  # 🔁 यहां आपकी image thumbnail का नाम
-RTMP_URL = f"rtmp://a.rtmp.youtube.com/live2/{STREAM_KEY}"
+RTMP_URL = f"rtmp://a.rtmp.youtube.com/live2/dtr3-w144-392p-8x4x-75cf"
 # ----------------------
 
 def start_stream():
